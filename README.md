@@ -1,10 +1,3 @@
-Introduction to the linux OS.
+This repository will have all the sessions conducted at linux from scratch workshop held at BMSCE in collaboration with IEEE students chapter.
 
-- Linux architecture
-- Basic User management
-- Linux memory structure
-- Linux file structure (LFS) 
-- Linux processes
-- Some important tools
-- Bash
-- Disk management (Partitioning & formatting)
+To run our presentations, use reveal-md
