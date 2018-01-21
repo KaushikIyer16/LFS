@@ -39,13 +39,13 @@
 
 ----
 
-![Linux architecture](img/linux_os.jpg)
+![Linux architecture](images/linux_os.jpg)
 Note: Src- https://www.tutorialspoint.com/operating_system/os_linux.htm
 
 ----
 
 Let us look at MS DOS structure:-
-![Ms Dos Architecture](img/MsDos.JPG)
+![Ms Dos Architecture](images/MsDos.JPG)
 Note: Src- Peter Galvin 9th edition
 
 ----
@@ -55,7 +55,7 @@ Any guesses?
 
 ----
 
-![Win 7 architecture](img/Win7.JPG)
+![Win 7 architecture](images/Win7.JPG)
 Note: Src- Peter Galvin 9th edition
 
 ---
@@ -270,7 +270,7 @@ Note: Src-http://www.thegeekstuff.com/2010/09/linux-file-system-structure/?utm_s
 
 ----
 
-![Linux File System Structure](/img/filesystem.png)
+![Linux File System Structure](/images/filesystem.png)
 > `bin, sbin, etc, dev, proc, var, tmp, usr, home, boot, lib, opt, mnt, media, srv`
 Note: ctrl -- to see the entire image
 Note: src-https://www.thegeekstuff.com/2010/09/linux-file-system-structure/
